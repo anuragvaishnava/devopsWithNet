@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzmKBdilsDdhdjLA9pAShD70NzQSzCAXu1fq/wPm3yNu95A/inTPTuI98yijGBhBX0Ne3NERU81k4g96F5tbUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaishnan\\source\\repos\\devopsWithNet\\devopsWithNet\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaishnan\\.nuget\\packages\\microsoft.net.build.containers\\0.3.2\\microsoft.net.build.containers.0.3.2.nupkg.sha512",
+    "C:\\Users\\vaishnan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
+    "C:\\Users\\vaishnan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

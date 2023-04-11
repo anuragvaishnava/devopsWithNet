@@ -1,0 +1,7 @@
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\Shopping.Client.exe
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\appsettings.Development.json
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\appsettings.json
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\Shopping.Client.dll
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\Shopping.Client.deps.json
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\Shopping.Client.runtimeconfig.json
+C:\Users\vaishnan\source\repos\devopsWithNet\devopsWithNet\Shopping.Client\obj\Docker\publish\Shopping.Client.pdb
